@@ -11,4 +11,6 @@ export const environment = {
       vapidKey: "D_T66F6FIxCf_vKeAhmOQ8nBocO5c2F5KPpMIDa77dY",
   },
 };
-  
+
+//aqui tenemos las credenciales de la firebase, esas se obtienen en firebase console
+
